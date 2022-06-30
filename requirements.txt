@@ -1,0 +1,4 @@
+cmake
+face-recognition
+pymongo[srv]
+# dlib needs to be installed as well, check the face-recognition docs
